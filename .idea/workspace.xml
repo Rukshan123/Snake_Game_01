@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d69845f0-a7f0-4261-97aa-fda1e1416a0c" name="Default Changelist" comment="" />
+    <list default="true" id="d69845f0-a7f0-4261-97aa-fda1e1416a0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,19 +22,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-141" />
-    <option name="y" value="28" />
-    <option name="width" value="811" />
-    <option name="height" value="688" />
-  </component>
   <component name="ProjectId" id="1mVg2jwribf7HuwBU28j2mYWzqk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1601206068956" />
@@ -58,12 +57,48 @@
       <workItem from="1601120887020" duration="8884000" />
       <workItem from="1601179266438" duration="10562000" />
       <workItem from="1601269495293" duration="46000" />
-      <workItem from="1609583968959" duration="357000" />
+      <workItem from="1609583968959" duration="1735000" />
+      <workItem from="1609586244236" duration="340000" />
+      <workItem from="1609586659785" duration="51000" />
     </task>
+    <task id="LOCAL-00001" summary="snake">
+      <created>1609584346160</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609584346160</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="snake" />
+    <option name="LAST_COMMIT_MESSAGE" value="snake" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="103" y="27" width="1149" height="741" key="CommitChangelistDialog2" timestamp="1609584345804">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="103" y="27" width="1149" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1609584345804" />
+    <state x="454" y="141" width="447" height="514" key="FileChooserDialogImpl" timestamp="1609586709145">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="454" y="141" width="447" height="514" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1609586709145" />
+    <state x="516" y="297" width="333" height="201" key="Github.ShareDialog" timestamp="1609586272057">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="516" y="297" width="333" height="201" key="Github.ShareDialog/0.27.1366.741@0.27.1366.741" timestamp="1609586272057" />
+    <state x="278" y="133" width="800" height="529" key="Vcs.Push.Dialog.v2" timestamp="1609584370445">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="133" width="800" height="529" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1609584370445" />
+    <state x="516" y="191" width="324" height="413" key="svn.repositoryBrowser" timestamp="1609585024157">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="516" y="191" width="324" height="413" key="svn.repositoryBrowser/0.27.1366.741@0.27.1366.741" timestamp="1609585024157" />
   </component>
   <component name="masterDetails">
     <states>
